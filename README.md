@@ -4,7 +4,7 @@ A single-page responsive React.js application that helps users discover local ev
 
 ## 🚀 Live Preview
 
-[🌐 Click here to view the live site](https://your-deployment-url.com)  
+[🌐 Click here to view the live site](https://dynamics-360-task-6hsk.vercel.app/)  
 *(Replace with your actual link if deployed on Vercel, Netlify, or GitHub Pages)*
 
 ---
